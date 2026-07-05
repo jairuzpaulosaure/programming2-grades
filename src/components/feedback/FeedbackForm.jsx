@@ -10,7 +10,7 @@ import {
     getFeedback,
     createFeedback,
     updateFeedback,
-} from "../../services/feedbackService";
+} from "../../services/FeedbackService";
 
 const MAX = 500;
 
